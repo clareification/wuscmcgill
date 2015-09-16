@@ -175,6 +175,7 @@ aside {
 
 header {
     position: relative;
+    padding-top: 50px;
     width: 100%;
     min-height: auto;
     text-align: center;
